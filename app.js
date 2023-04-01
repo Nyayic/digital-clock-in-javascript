@@ -14,5 +14,4 @@ function updateClock() {
       return num;
     }
   }
-
   setInterval(updateClock, 1000);
